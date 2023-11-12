@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/*
+venv/*
+__pycache__/*
+*/__pycache__/*
+convolucao/*
+brasil.py
+output/*

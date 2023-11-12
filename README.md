@@ -1,5 +1,12 @@
-# Processamento de Imagens
+# Detecção Holística (Mãos, Pernas, Rosto)
 
-### Confira o canal [Programação Dinâmica](https://youtube.com/programacaodinamica)
+Este é um script Python que utiliza a biblioteca `mediapipe` para realizar a detecção holística em uma imagem de entrada proveniente de uma câmera.
 
-## Código dos vídeos sobre Processamento de Imagens
+## Instalação de Dependências
+
+Certifique-se de ter as seguintes bibliotecas instaladas antes de executar o script:
+
+```bash
+pip install opencv-python
+pip install mediapipe
+```
